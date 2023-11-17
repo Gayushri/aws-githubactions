@@ -6,7 +6,7 @@ on:
   issues:
     types: [opened]
     branches:
-      - infraterra
+      - main
 permissions:
   id-token: write
   contents: read
